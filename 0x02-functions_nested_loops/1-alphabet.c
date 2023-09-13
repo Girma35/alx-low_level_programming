@@ -7,17 +7,8 @@
 
 void print_alphabet(void)
 {
-  
-int c;
-int i;
-i=0;
-while(i < o)
-{
-for (c = 'a';c <= 10; c++)
-{
-_putchar(c);
+char letter;
+for (letter = 'a'; letter <= 'z'; letter++)
+_putchar(letter);
+_putchar('\n');
 }
-_putchar('\n')
-}
-
-  
