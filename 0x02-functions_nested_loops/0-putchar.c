@@ -1,9 +1,9 @@
 #include"main.h"
+
 /**
- *main - check the code
- *    
- *Return: Always 0.
- */
+  * main - this is rhe function
+  * Return: retruns 0
+  */
 int main(void)
 {
 _putchar('_');
@@ -15,5 +15,7 @@ _putchar('h');
 _putchar('a');
 _putchar('r');
 _putchar('\n');
-return(o);
+
+return (0);
+
 }
