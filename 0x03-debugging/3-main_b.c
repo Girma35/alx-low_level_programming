@@ -7,15 +7,11 @@
 * Return: 0
 */
 
-int main(void)
+void print_remaining_days(int month, int day, int year)
 {
-int month;
-int day;
-int year;
-
-month = 02;
-day = 29;
-year = 2000;
+month = 4;
+day = 01;
+year = 1997;
 
 printf("Date: %02d/%02d/%04d\n", month, day, year);
 
